@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DarkThemOnline/static/css/main.dafa3d41.css",
+    "main.js": "/DarkThemOnline/static/js/main.3cae1ce6.js",
+    "static/js/453.171ddc7f.chunk.js": "/DarkThemOnline/static/js/453.171ddc7f.chunk.js",
+    "index.html": "/DarkThemOnline/index.html",
+    "main.dafa3d41.css.map": "/DarkThemOnline/static/css/main.dafa3d41.css.map",
+    "main.3cae1ce6.js.map": "/DarkThemOnline/static/js/main.3cae1ce6.js.map",
+    "453.171ddc7f.chunk.js.map": "/DarkThemOnline/static/js/453.171ddc7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dafa3d41.css",
+    "static/js/main.3cae1ce6.js"
+  ]
+}
