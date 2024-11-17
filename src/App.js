@@ -1,10 +1,11 @@
 import './App.css'; // استيراد ملفات CSS للتنسيق
 import 'bootstrap/dist/css/bootstrap.min.css'; // استيراد ملفات CSS الخاصة بـ Bootstrap
-import DarkThem from './component/DarkThem/DarkThem.jsx'
+import DarkThem from './component/DarkThem/DarkThem.jsx'; // استيراد مكون DarkThem
+
 function App() {
   return (
     <div className="App">
-      <DarkThem />
+      <DarkThem /> {/* عرض مكون DarkThem في الصفحة الرئيسية للتطبيق */}
     </div>
   );
 }
